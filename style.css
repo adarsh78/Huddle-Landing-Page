@@ -151,6 +151,7 @@ footer i:hover{
     footer{
         justify-content: flex-end;
         margin-right: 3rem;
+        margin-top: -3rem;
 
     }
   }
